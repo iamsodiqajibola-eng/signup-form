@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@media (max-width: 1023px) {
+  main {
+    background-image: url("./assets/bg-intro-mobile.png") !important;
+  }
+}
